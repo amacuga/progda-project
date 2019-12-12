@@ -27,3 +27,5 @@ The main task in this project was to create a synthesised data set. I created a 
 3. In cmder, navigate to the unzipped folder.
 4. Run "jupyter notebook".
 5. Select "Project.ipynb".
+
+## References.
