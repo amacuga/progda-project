@@ -18,3 +18,12 @@ The main task in this project was to create a synthesised data set. I created a 
 1. Go to [Github](https://github.com/amacuga/progda-project).
 2. Click the "Clone or download" button.
 3. Select "Download ZIP".
+
+## How to run my jupyter notebook.
+
+1. Make sure you have Python installed- I would recommend installing the free version of Anaconda.
+2. Unzip the repository folder.
+2. Run cmder or similar tool.
+3. In cmder, navigate to the unzipped folder.
+4. Run "jupyter notebook".
+5. Select "Project.ipynb".
